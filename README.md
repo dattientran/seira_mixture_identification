@@ -12,7 +12,7 @@ spectroscopy* (2026). The paper uses version 1.0.
    pip install jupyterlab
    ```
 
-2. Download the data from Zenodo ([DOI]). Put `source_data.xlsx` in `data/` and unzip `spectra.zip`
+2. Download the data from Zenodo (https://zenodo.org/records/23874735). Put `source_data.xlsx` in `data/` and unzip `spectra.zip`
    into `data/spectra/`.
 3. Start Jupyter with `jupyter lab`, open `figures.ipynb` and run all cells. Figures are saved in `figures/`.
 
